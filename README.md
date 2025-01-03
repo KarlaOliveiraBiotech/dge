@@ -1,2 +1,2 @@
-# dge
+# DGE
 Differential gene expression analysis
