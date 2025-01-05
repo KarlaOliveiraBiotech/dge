@@ -1,0 +1,7 @@
+Sample	Class	Animal	Timepoint
+Lib1	control	01	t0
+Lib2	control	02	t0
+Lib3	control	03	t0
+Lib4	treat	01	t1
+Lib5	treat	02	t1
+Lib6	treat	03	t1
